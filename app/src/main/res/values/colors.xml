@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color_1">#cc00ff</color> <!-- Purple -->
+    <color name="button_color_2">#cc1100</color> <!-- Red -->
+    <color name="button_color_3">#cc8899</color> <!-- Light Pink -->
+</resources>
